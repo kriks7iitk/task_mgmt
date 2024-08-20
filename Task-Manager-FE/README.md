@@ -21,4 +21,4 @@ Frontend for task management app
 
 3. __Run Application:__
 
-        npm run start
+        npm run dev
