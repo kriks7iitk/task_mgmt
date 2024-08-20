@@ -17,3 +17,8 @@ Frontend for task management app
 * Create a .env file in the root directory and configure the following variables:
 
     VITE_API_URL = http://localhost:4000
+
+
+3. __Run Application:__
+
+        npm run start
